@@ -1,4 +1,4 @@
-// tady je místo pro náš program
+function ask_user_name
 
 
 
